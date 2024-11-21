@@ -1,0 +1,452 @@
+写作section1 题目：
+Some people believe that in order to thrive, a society must put its own overall success before the well-being of its individual citizens. Others believe that the well-being of a society can only be measured by the general welfare of all its people.
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.
+
+语文section2 题目1 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：单空
+语文section2 题目1 阅读文章（没有为空）：
+语文section2 题目1 题干：
+1.Marvin's mother thought that his______quiet, imaginative reverie would eventually lead him to become an artist, or perhaps a philosopher.
+语文section2 题目1 选项：
+A.aversion to
+B.apathy toward
+C.befuddlement by
+D.vexation with
+E.penchant for
+语文section2 题目1 答案：E
+
+语文section2 题目2 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：双空
+语文section2 题目2 阅读文章（没有为空）：
+语文section2 题目2 题干：
+2. The idea that arguments based on probability are deployed only by (i)______ persons is (ii)______ even among scientists. Perhaps such an evaluation has partly to do with the origins of the subject in the mathematics of gambling games, not generally regarded as pastimes for people of good character.
+语文section2 题目2 选项：
+A. exacting
+B. disreputable	
+C. prominent
+D. widespread
+E. controversial	
+F. deplored
+语文section2 题目2 答案：BE
+
+语文section2 题目3 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：三空
+语文section2 题目3 阅读文章（没有为空）：
+语文section2 题目3 题干：3. Divided into separate essays on different aspects of Jacques-Louis David's late career, Bordes' catalog (i)_____a great deal of knowledge, never providing a full introduction to the painter's life or to the period in which he lived Yet while the book may (ii)_____, the casual reader, cognoscenti will delight in the wonderfully complete detail on each picture, not to mention the caustic little jabs at colleagues that Bordes occasionally delivers. The world of David scholarship. as befits its subject, is not a (iii)_____place.
+语文section2 题目3 选项：
+A. contains
+B. assumes
+C. disputes
+D. satisfy
+E. frustrate
+F. address
+G. gentle
+H. competitive
+I. sophisticated
+语文section2 题目3 答案：AEI
+
+语文section2 题目4 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section2 题目4 阅读文章（没有为空）：In late imperial China (circa 1650-1850), excessive exploitation came not from the sovereign but from his agents, who had shorter-term goals and narrower interests than their ruler did. While the emperor's interest in preempting rebellion militated against overtaxation, his agents had incentives to exploit the taxpayers for their own benefit. Due to weak oversight, the emperor had to keep the taxes low and his bureaucracy small to mitigate this "tyranny at the bottom" effect. This fiscal weakness of the Chinese state had long been masked by its huge tax base; however, the economic expansion of the eighteenth century exacerbated the problems of administrative control, further squeezing the nation's finances and leaving China ill prepared for the challenges of the nineteenth century. 
+语文section2 题目4 题干：4.it can be inferred that the author assumes which of the following about the emperor's strategy of keeping "the taxes low and his bureaucracy small"?
+语文section2 题目4 选项：
+A.It was implemented with little understanding of its consequences.
+B.It was a concession made to ameliorate an unacceptable situation.
+C.It was an indication of the emperor's refusal to compromise his principles.
+D.It was a rare success in a policy area characterized by failure.
+E.It was a choice of the common good over the emperor's personal interests.
+语文section2 题目4 答案：B
+
+语文section2 题目5 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section2 题目5 阅读文章（没有为空）：In late imperial China (circa 1650-1850), excessive exploitation came not from the sovereign but from his agents, who had shorter-term goals and narrower interests than their ruler did. While the emperor's interest in preempting rebellion militated against overtaxation, his agents had incentives to exploit the taxpayers for their own benefit. Due to weak oversight, the emperor had to keep the taxes low and his bureaucracy small to mitigate this "tyranny at the bottom" effect. This fiscal weakness of the Chinese state had long been masked by its huge tax base; however, the economic expansion of the eighteenth century exacerbated the problems of administrative control, further squeezing the nation's finances and leaving China ill prepared for the challenges of the nineteenth century. 
+语文section2 题目5 题干：5.It can be inferred from the passage that the Chinese emperor and the bureaucracy differed with respect to the
+语文section2 题目5 选项：
+A.priority each placed on preventing popular rebellion
+B.aversion of each to economic and bureaucratic reform
+C.interest each showed in addressing the fiscal weakness of the state
+D.willingness of each to encourage economic stability through large tax revenues
+E.enthusiasm each had for the expansion of the Chinese economy
+语文section2 题目5 答案：A
+
+语文section2 题目6 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section2 题目6 阅读文章（没有为空）：
+语文section2 题目6 题干：6. Viruses are generally regarded as being on the far side of the demarcation between living and nonliving things, yet newly discovered giant viruses have longer genomes than some bacteria, whose status as living entities is______ .（选出2个正确选项）
+语文section2 题目6 选项：
+A. elusive
+B. incontrovertible
+C. underestimated
+D. questionable
+E. indisputable
+F. debatable
+语文section2 题目6 答案：BE
+
+语文section2 题目7 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section2 题目7 阅读文章（没有为空）：
+语文section2 题目7 题干：7. Concerned to upend the standard top-down approach to game design, Flanagan calls on game designers to_____ the typical model with one that is less hierarchical. （选出2个正确选项）
+语文section2 题目7 选项：
+A. augment
+B. supplant
+C. assail
+D. amplify
+E. modify
+F. replace
+语文section2 题目7 答案：BF
+
+语文section2 题目8 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section2 题目8 阅读文章（没有为空）：
+语文section2 题目8 题干：8. In nineteenth-century Puerto Rico, the consumption of salted cod spread among the entire population; on the tables of humbler families it became _____ food, adding flavor to other products and supplying much-needed protein.（选出2个正确选项）
+语文section2 题目8 选项：
+A. an exotic
+B. an affordable
+C. an essential
+D. a supplemental 
+E. a complementary
+F. a commonplace
+语文section2 题目8 答案：BF
+
+语文section2 题目9 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section2 题目9 阅读文章（没有为空）：
+语文section2 题目9 题干：9. Baker was struck by the amount of ______she saw at the renowned medical facility; for all their experience, the physicians could not seem to agree on the correct diagnosis for any given patient.（选出2个正确选项）
+语文section2 题目9 选项：
+A. discordance
+B. contention
+C. quackery
+D. nepotism
+E. indecision
+F. cronyism
+语文section2 题目9 答案：AB
+
+语文section2 题目10 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section2 题目10 阅读文章（没有为空）：Garlic mustard-a plant native to western Eurasia-has been successful as an invasive species in the United States. Garlic mustard contains a variety of plant secondary compounds that lower its palatability to herbivores. In addition, recent studies suggest that these secondary compounds affect the seed germination and growth of native plants and alter the activity of soil organisms, raising the possibility that secondary compounds in garlic mustard contribute to its overall success as an invader. Although it remains unclear exactly how these secondary compounds penetrate into the soil. their presence appears to affect surrounding plants. Prati and Bossdorf found that the germination rate of a native woodland herb, rough avens, was significantly reduced when grown in soils that had been previously occupied by garlic mustard. To test for the specific effects of root exudates (substances slowly released by roots), they mixed experimental soil samples with activated carbon, a material that binds organic compounds in soil and thereby decreases their activity. They found that more seeds germinated in soils with activated carbon than in soils without activated carbon, suggesting that organic compounds released in the exudates of garlic mustard had a negative effect on the seed germination of native species.
+语文section2 题目10 题干：10.It can be inferred from the passage that Prati and Bossdorf's experiments with activated carbon were intended to determine which of the following?
+语文section2 题目10 选项：
+A.How the presence of garlic mustard affects the growth rates of other non-native plant species
+B.Why the presence of activated carbon decreases the activity of organic compounds
+C.Whether the root exudates of garlic mustard negatively affect the germination rates of native plants
+D.Whether the germination of garlic mustard is affected by the activity of soil organisms
+E.Which secondary compounds found in garlic mustard most lower its palatability to herbivores
+语文section2 题目10 答案：C
+
+语文section2 题目11 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读多选
+语文section2 题目11 阅读文章（没有为空）：Garlic mustard-a plant native to western Eurasia-has been successful as an invasive species in the United States. Garlic mustard contains a variety of plant secondary compounds that lower its palatability to herbivores. In addition, recent studies suggest that these secondary compounds affect the seed germination and growth of native plants and alter the activity of soil organisms, raising the possibility that secondary compounds in garlic mustard contribute to its overall success as an invader. Although it remains unclear exactly how these secondary compounds penetrate into the soil. their presence appears to affect surrounding plants. Prati and Bossdorf found that the germination rate of a native woodland herb, rough avens, was significantly reduced when grown in soils that had been previously occupied by garlic mustard. To test for the specific effects of root exudates (substances slowly released by roots), they mixed experimental soil samples with activated carbon, a material that binds organic compounds in soil and thereby decreases their activity. They found that more seeds germinated in soils with activated carbon than in soils without activated carbon, suggesting that organic compounds released in the exudates of garlic mustard had a negative effect on the seed germination of native species.
+语文section2 题目11 题干：According to the passage, which of the following statements about the plant secondary compounds found in garlic mustard is true?（不定项选择题，答案个数不一定，选出所有可能正确的选项）
+语文section2 题目11 选项：
+A.They make garlic mustard less appetizing to plant-eating animals.
+B.They alter the activity of soil-dwelling organisms.
+C.They appear to decrease the germination rates of native plant species.
+语文section2 题目11 答案：ABC
+
+语文section2 题目12 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section2 题目12 阅读文章（没有为空）：Garlic mustard-a plant native to western Eurasia-has been successful as an invasive species in the United States. Garlic mustard contains a variety of plant secondary compounds that lower its palatability to herbivores. In addition, recent studies suggest that these secondary compounds affect the seed germination and growth of native plants and alter the activity of soil organisms, raising the possibility that secondary compounds in garlic mustard contribute to its overall success as an invader. Although it remains unclear exactly how these secondary compounds penetrate into the soil. their presence appears to affect surrounding plants. Prati and Bossdorf found that the germination rate of a native woodland herb, rough avens, was significantly reduced when grown in soils that had been previously occupied by garlic mustard. To test for the specific effects of root exudates (substances slowly released by roots), they mixed experimental soil samples with activated carbon, a material that binds organic compounds in soil and thereby decreases their activity. They found that more seeds germinated in soils with activated carbon than in soils without activated carbon, suggesting that organic compounds released in the exudates of garlic mustard had a negative effect on the seed germination of native species.
+语文section2 题目12 题干：12.According to the passage, which of the following occurred during Prati and Bossdorfs experiments?
+语文section2 题目12 选项：
+A.Rough avens plants that had already germinated grew more quickly in soils that contained activated carbon than they did in soils that did not contain it.
+B.More rough avens seeds sprouted in soil with decreased organic compound activity than did seeds in soil with higher levels of organic compound activity.
+C.The growth rate of rough avens plants that had already germinated decreased significantly when the plants were grown in soil that had been previously occupied by garlic mustard.
+D.The presence of activated carbon negatively affected both the seed germination rates and the plant growth rates of garlic mustard.
+E.The activities of soil organisms necessary for the flourishing of rough avens were enhanced by the presence of garlic mustard.
+语文section2 题目12 答案：B
+
+数学section3 题目1 类型（单选，多选，填空）：单选
+数学section3 题目1 题目（填路径）：paper_source\question_pictures\入学测试\1-1.png
+数学section3 题目1 选项个数（填数字）：4
+数学section3 题目1 答案：D
+
+数学section3 题目2 类型（单选，多选，填空）：单选
+数学section3 题目2 题目（填路径）：paper_source\question_pictures\入学测试\1-2.png
+数学section3 题目2 选项个数（填数字）：4
+数学section3 题目2 答案：A
+
+数学section3 题目3 类型（单选，多选，填空）：单选
+数学section3 题目3 题目（填路径）：paper_source\question_pictures\入学测试\1-3.png
+数学section3 题目3 选项个数（填数字）：4
+数学section3 题目3 答案：A
+
+数学section3 题目4 类型（单选，多选，填空）：单选
+数学section3 题目4 题目（填路径）：paper_source\question_pictures\入学测试\1-4.png
+数学section3 题目4 选项个数（填数字）：4
+数学section3 题目4 答案：C
+
+数学section3 题目5 类型（单选，多选，填空）：多选
+数学section3 题目5 题目（填路径）：paper_source\question_pictures\入学测试\1-5.png
+数学section3 题目5 选项个数（填数字）：4
+数学section3 题目5 答案：ABC
+
+数学section3 题目6 类型（单选，多选，填空）：单选
+数学section3 题目6 题目（填路径）：paper_source\question_pictures\入学测试\1-6.png
+数学section3 题目6 选项个数（填数字）：5
+数学section3 题目6 答案：B
+
+数学section3 题目7 类型（单选，多选，填空）：单选
+数学section3 题目7 题目（填路径）：paper_source\question_pictures\入学测试\1-7.png
+数学section3 题目7 选项个数（填数字）：5
+数学section3 题目7 答案：C
+
+数学section3 题目8 类型（单选，多选，填空）：单选
+数学section3 题目8 题目（填路径）：paper_source\question_pictures\入学测试\1-8.png
+数学section3 题目8 选项个数（填数字）：5
+数学section3 题目8 答案：D
+
+数学section3 题目9 类型（单选，多选，填空）：单选
+数学section3 题目9 题目（填路径）：paper_source\question_pictures\入学测试\1-9.png
+数学section3 题目9 选项个数（填数字）：5
+数学section3 题目9 答案：E
+
+数学section3 题目10 类型（单选，多选，填空）：单选
+数学section3 题目10 题目（填路径）：paper_source\question_pictures\入学测试\1-10.png
+数学section3 题目10 选项个数（填数字）：5
+数学section3 题目10 答案：D
+
+数学section3 题目11 类型（单选，多选，填空）：单选
+数学section3 题目11 题目（填路径）：paper_source\question_pictures\入学测试\1-11.png
+数学section3 题目11 选项个数（填数字）：5
+数学section3 题目11 答案：A
+
+数学section3 题目12 类型（单选，多选，填空）：填空
+数学section3 题目12 题目（填路径）：paper_source\question_pictures\入学测试\1-12.png
+数学section3 题目12 选项个数（填数字）：
+数学section3 题目12 答案：110
+
+语文section4 题目1 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：单空
+语文section4 题目1 阅读文章（没有为空）：
+语文section4 题目1 题干：1.The efficacy of a placebo may not______ deception: inert sugar pills have been shown to reduce the symptoms of irritable bowel syndrome even in patients who were explicitly told they were receiving a placebo.
+语文section4 题目1 选项：
+A.justify
+B.preclude
+C.require
+D.mitigate
+E.circumvent
+语文section4 题目1 答案：C
+
+语文section4 题目2 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：单空
+语文section4 题目2 阅读文章（没有为空）：
+语文section4 题目2 题干：2.One baffling aspect of the novel is its capacity to generate emotional power from a plot that lacks the most elementary______: readers must accept not an occasional coincidence, but a continuous stream of them.
+语文section4 题目2 选项：
+A.synergy
+B.continuity
+C.naivete
+D.premise
+E.credibility
+语文section4 题目2 答案：E
+
+语文section4 题目3 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：双空
+语文section4 题目3 阅读文章（没有为空）：
+语文section4 题目3 题干：3.Many scholars have argued that the United States Supreme Court usually (i)______ public opinion in its decisions because it fears that it will (ii)______ if it does not; when it does depart from public opinion, it whips up political maelstroms.
+语文section4 题目3 选项：
+A. comments on
+B. hews to
+C. overrides
+D. lose public support
+E. mitigate public anger
+F. create public indifference
+语文section4 题目3 答案：BD
+
+语文section4 题目4 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：三空
+语文section4 题目4 阅读文章（没有为空）：
+语文section4 题目4 题干：4.When he talks about his childhood, his lack of formal education is a theme he (i)______,usually to cast it as (ii)______. He says that because he felt the need to (iii)______ it, he read much more prodigiously than he might have and without the narrowness of focus he notices in many conventionally learned people.
+语文section4 题目4 选项：
+A. returns to
+B. skips over
+C. laments
+D. an insurmountable barrier
+E. an inadvertent gift
+F. an insignificant event
+G. yield to
+H. brag about
+I. compensate for
+语文section4 题目4 答案：AEI
+
+语文section4 题目5 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目5 阅读文章（没有为空）：The scandal caused by Gustave Courbet's 1850 painting A Burial at Ornans cannot be attributed to its subject-other artists' depictions of regional life had gained acceptance in Paris art circles-or to critics' assessments of Courbet's skill. Rather, by representing an ordinary burial in a provincial town on the large scale normally reserved for prestigious history paintings, Courbet had departed from a polite kind of Realism that had only recently become acceptable, where both the subject-virtuous peasant life-and the dimensions were modest. Courbet sought to do something more ambitious than a painter like Leleux, who depicted everyday life faithfully and without exaggeration: Courbet wished to paint his contemporaries with the seriousness normally reserved for kings and heroes.
+语文section4 题目5 题干：5.The author of the passage mentions Leleux primarily in order to
+语文section4 题目5 选项：
+A.underscore the point that A Burial at Ornans violated certain conventions dominant in Courbet's Paris
+B.suggest that some aspects of Leleux's depictions of everyday life were less realistic than Courbet's depictions of such subjects
+C.raise the possibility that Leleux was influenced by Courbet in his choice of subject matter for some of his paintings
+D.identify an aspect of peasant life that some of Courbet's contemporaries found appealing as subject matter for paintings
+E.highlight some ways in which A Burial at Ornans resembled the work of other painters working in the Realist mode 
+语文section4 题目5 答案：A
+
+语文section4 题目6 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目6 阅读文章（没有为空）：The scandal caused by Gustave Courbet's 1850 painting A Burial at Ornans cannot be attributed to its subject-other artists' depictions of regional life had gained acceptance in Paris art circles-or to critics' assessments of Courbet's skill. Rather, by representing an ordinary burial in a provincial town on the large scale normally reserved for prestigious history paintings, Courbet had departed from a polite kind of Realism that had only recently become acceptable, where both the subject-virtuous peasant life-and the dimensions were modest. Courbet sought to do something more ambitious than a painter like Leleux, who depicted everyday life faithfully and without exaggeration: Courbet wished to paint his contemporaries with the seriousness normally reserved for kings and heroes.
+语文section4 题目6 题干：6.In the context in which it appears, "seriousness" most nearly means
+语文section4 题目6 选项：
+A.danger
+B.gravity
+C.grimness
+D.learnedness
+E.genuineness
+语文section4 题目6 答案：B
+
+语文section4 题目7 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目7 阅读文章（没有为空）：In 1776, the state of New Jersey adopted a constitution that ignored gender in its suffrage clause, defining voters simply as adult residents worth at least fifty pounds. After 1776 women routinely participated in the state's electoral process, until, in 1807, the state legislature passed a law redefining voters solely as adult White male taxpaying citizens. Political historians have been perplexed by New Jersey's deviation from the established norm of exclusive male suffrage, finding no sign of public agitation either for or against the voting rights of women prior to their enfranchisement in 1776 or disenfranchisement in 1807. Consequently historians, downplaying the extent to which women actually voted, have treated female suffrage as the result of careless constitutional construction and viewed the 1807 disenfranchisement as a legislative effort to remedy this carelessness. Yet examination of revolutionary-era manuscripts indicates that the 1776 suffrage clause underwent close legislative scrutiny that led to several significant changes; thus, the absence of gender references in the final version was probably not accidental. Indeed, the evidence suggests that New Jersey's legislators believed that all who possessed sufficient net worth were entitled to vote. However, they also saw the net worth qualification as serving to prevent an overdemocratization of the voting process.
+语文section4 题目7 题干：7.The author of the passage takes the "significant changes" to be an indication of which of the following?
+语文section4 题目7 选项：
+A.That the 1776 suffrage clause was not established without critical examination
+B.That there was little consensus among legislators regarding the final version of the 1776 suffrage clause
+C.That the 1776 suffrage clause was not a deviation from the norm that prevailed in other states
+D.That there was at least some public agitation in favor of voting rights for women prior to 1776
+E.That legislators in 1776 were seriously concerned about the overdemocratization of the voting process
+语文section4 题目7 答案：A
+
+语文section4 题目8 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目8 阅读文章（没有为空）：In 1776, the state of New Jersey adopted a constitution that ignored gender in its suffrage clause, defining voters simply as adult residents worth at least fifty pounds. After 1776 women routinely participated in the state's electoral process, until, in 1807, the state legislature passed a law redefining voters solely as adult White male taxpaying citizens. Political historians have been perplexed by New Jersey's deviation from the established norm of exclusive male suffrage, finding no sign of public agitation either for or against the voting rights of women prior to their enfranchisement in 1776 or disenfranchisement in 1807. Consequently historians, downplaying the extent to which women actually voted, have treated female suffrage as the result of careless constitutional construction and viewed the 1807 disenfranchisement as a legislative effort to remedy this carelessness. Yet examination of revolutionary-era manuscripts indicates that the 1776 suffrage clause underwent close legislative scrutiny that led to several significant changes; thus, the absence of gender references in the final version was probably not accidental. Indeed, the evidence suggests that New Jersey's legislators believed that all who possessed sufficient net worth were entitled to vote. However, they also saw the net worth qualification as serving to prevent an overdemocratization of the voting process.
+语文section4 题目8 题干：8.Which of the following best describes the function of the last sentence of the passage?
+语文section4 题目8 选项：
+A.To suggest that New Jersey legislators in 1776 were insincere in their commitment to voting rights for women
+B.To indicate that there was a lack of consensus among New Jersey legislators regarding the final version of the 1776 suffrage clause
+C.To indicate that the New Jersey legislators in 1776 did not favor unqualified access to voting rights
+D.To undermine the evidence suggesting that New Jersey legislators in 1776 believed that all who possessed sufficient net worth were entitled to vote
+E.To suggest that the absence of gender references in the final version of the 1776 suffrage clause may have been accidental
+语文section4 题目8 答案：C
+
+语文section4 题目9 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目9 阅读文章（没有为空）：In 1776, the state of New Jersey adopted a constitution that ignored gender in its suffrage clause, defining voters simply as adult residents worth at least fifty pounds. After 1776 women routinely participated in the state's electoral process, until, in 1807, the state legislature passed a law redefining voters solely as adult White male taxpaying citizens. Political historians have been perplexed by New Jersey's deviation from the established norm of exclusive male suffrage, finding no sign of public agitation either for or against the voting rights of women prior to their enfranchisement in 1776 or disenfranchisement in 1807. Consequently historians, downplaying the extent to which women actually voted, have treated female suffrage as the result of careless constitutional construction and viewed the 1807 disenfranchisement as a legislative effort to remedy this carelessness. Yet examination of revolutionary-era manuscripts indicates that the 1776 suffrage clause underwent close legislative scrutiny that led to several significant changes; thus, the absence of gender references in the final version was probably not accidental. Indeed, the evidence suggests that New Jersey's legislators believed that all who possessed sufficient net worth were entitled to vote. However, they also saw the net worth qualification as serving to prevent an overdemocratization of the voting process.
+语文section4 题目9 题干：
+9.The author of the passage suggests that if there had been public agitation regarding voting rights for women in New Jersey prior to1776, then this agitation would have
+语文section4 题目9 选项：
+A.been largely in opposition to voting rights for women rather than in favor of those rights
+B.exerted an important influence on the final version of the 1776 New Jersey suffrage clause
+C.potentially provided historians with an explanation for the New Jersey legislature's decision in 1776 regarding voting rights
+D.made New Jersey's political culture less unusual in comparison to other states
+E.made it less likely that New Jersey would disenfranchise women sometime after 1776
+语文section4 题目9 答案：C
+
+语文section4 题目10 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section4 题目10 阅读文章（没有为空）：
+语文section4 题目10 题干：10.The ocean surf zone is a very______ research setting: it is almost impossible to install and maintain instruments that will give valid readings there. （选出2个正确选项）
+语文section4 题目10 选项：
+A.unpredictable
+B.prosaic
+C.worthwhile
+D.hostile
+E.pedestrian
+F.inhospitable
+语文section4 题目10 答案：DF
+
+语文section4 题目11 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section4 题目11 阅读文章（没有为空）：
+语文section4 题目11 题干：11.In contrast to the novel's scenic realism and precise characterization is its persistent philosophical______.（选出2个正确选项）
+语文section4 题目11 选项：
+A.naturalism
+B.abstraction
+C.generality
+D.impartiality
+E.sincerity
+F.objectivity
+语文section4 题目11 答案：BC
+
+语文section4 题目12 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：六选二
+语文section4 题目12 阅读文章（没有为空）：
+语文section4 题目12 题干：12.  It is possible to mistake the constant stimulation offered by the Internet for ______: we can come to believe that if we are busy, we are focused. （选出2个正确选项）
+语文section4 题目12 选项：
+A. amusement
+B. involvement
+C. progress
+D. engagement
+E. productivity
+F. improvement
+语文section4 题目12 答案：BD
+
+语文section4 题目13 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目13 阅读文章（没有为空）：Many tadpoles live in temporary ponds-ponds that dry up for part of each year. When the dry season comes, those tadpoles that have not yet developed into frogs die. A tadpole can only develop rapidly if it spends much of its time feeding. generally by scraping food off decaying leaves. Nevertheless, those tadpoles in a temporary pond that spend the most time feeding have relatively poor chances of developing into frogs.
+语文section4 题目13 题干：13. which of the following, if true, most helps to explain the poor survival rate of the tadpoles that spend the greatest amount of time feeding?
+语文section4 题目13 选项：
+A.The animals that eat tadpoles in temporary ponds tend to be much smaller than those that cat tadpoles in permanent ponds.
+B.The animals that eat tadpoles can only locate their prey when the tadpoles are moving.
+C.Some ponds that support populations of tadpoles dry up in some years and not in others.
+D.Some of the animals that prey on tadpoles in permanent ponds cannot survive in temporary ponds.
+E.Frogs that as tadpoles grew up in temporary ponds do not survive to reproduce unless they can live for long periods without a pond nearby.
+语文section4 题目13 答案：B
+
+语文section4 题目14 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读单选
+语文section4 题目14 阅读文章（没有为空）：Astronomers who study planet formation once believed that comets---because they remain mostly in the distant Oort cloud, where temperatures are close to absolute zero--must be pristine relics of the material that formed the outer planets. The conceptual shift away from seeing comets as pristine relics began in the 1970s，when laboratory simulations revealed there was sufficient ultraviolet radiation reaching comets to darken their surfaces and there were sufficient cosmic rays to alter chemical bonds or even molecular structure near the surface. Nevertheless, astronomers still believed that when a comet approached the Sun--where they could study it一the Sun's intense heat would remove the corrupted surface layer, exposing the interior. About the same time, though, scientists realized comets might contain decaying radioactive isotopes that could have warmed cometary interiors to temperatures that caused the interiors to evolve.
+语文section4 题目14 题干：14. The author suggests that the realization described in the final sentence of the passage had which of the following effects?
+语文section4 题目14 选项：
+A. It introduced a new topic for study by astronomers interested in planetary formation.
+B. It led astronomers to adopt a number of different strategies in trying to determine the composition of cometary interiors.
+C. It called into question an assumption that astronomers had made about comets.
+D. It cast doubt on astronomers' ability to study the interior parts of comets.
+E. It caused astronomers to revise their account of the composition of the outer planets.
+语文section4 题目14 答案：C
+
+语文section4 题目15 类型（单空，双空，三空，六选二，阅读单选，阅读多选，阅读选句子）：阅读多选
+语文section4 题目15 阅读文章（没有为空）：Astronomers who study planet formation once believed that comets---because they remain mostly in the distant Oort cloud, where temperatures are close to absolute zero--must be pristine relics of the material that formed the outer planets. The conceptual shift away from seeing comets as pristine relics began in the 1970s，when laboratory simulations revealed there was sufficient ultraviolet radiation reaching comets to darken their surfaces and there were sufficient cosmic rays to alter chemical bonds or even molecular structure near the surface. Nevertheless, astronomers still believed that when a comet approached the Sun--where they could study it一the Sun's intense heat would remove the corrupted surface layer, exposing the interior. About the same time, though, scientists realized comets might contain decaying radioactive isotopes that could have warmed cometary interiors to temperatures that caused the interiors to evolve.
+语文section4 题目15 题干：
+15. It can be inferred that the author would agree with which of the following statement about the “laboratory simulations” （不定项选择题，答案个数不一定，选出所有可能正确的选项）
+语文section4 题目15 选项：
+A. The simulations showed that despite the low temperatures in a Oort cloud, there was sufficient energy there to other comets.
+B. Astronomers were initially reluctant to accept what the simulation showed about the composition of comet.
+C. The simulations themselves did not eliminate the possibility that comets contain pristine relics of material from the early solar systems.
+语文section4 题目15 答案：AC
+
+数学section5 题目1 类型（单选，多选，填空）：单选
+数学section5 题目1 题目（填路径）：paper_source\question_pictures\入学测试\2-1.png
+数学section5 题目1 选项个数（填数字）：4
+数学section5 题目1 答案：B
+
+数学section5 题目2 类型（单选，多选，填空）：单选
+数学section5 题目2 题目（填路径）：paper_source\question_pictures\入学测试\2-2.png
+数学section5 题目2 选项个数（填数字）：4
+数学section5 题目2 答案：D
+
+数学section5 题目3 类型（单选，多选，填空）：单选
+数学section5 题目3 题目（填路径）：paper_source\question_pictures\入学测试\2-3.png
+数学section5 题目3 选项个数（填数字）：4
+数学section5 题目3 答案：C
+
+数学section5 题目4 类型（单选，多选，填空）：单选
+数学section5 题目4 题目（填路径）：paper_source\question_pictures\入学测试\2-4.png
+数学section5 题目4 选项个数（填数字）：4
+数学section5 题目4 答案：A
+
+数学section5 题目5 类型（单选，多选，填空）：单选
+数学section5 题目5 题目（填路径）：paper_source\question_pictures\入学测试\2-5.png
+数学section5 题目5 选项个数（填数字）：4
+数学section5 题目5 答案：D
+
+数学section5 题目6 类型（单选，多选，填空）：单选
+数学section5 题目6 题目（填路径）：paper_source\question_pictures\入学测试\2-6.png
+数学section5 题目6 选项个数（填数字）：5
+数学section5 题目6 答案：C
+
+数学section5 题目7 类型（单选，多选，填空）：单选
+数学section5 题目7 题目（填路径）：paper_source\question_pictures\入学测试\2-7.png
+数学section5 题目7 选项个数（填数字）：5
+数学section5 题目7 答案：B
+
+数学section5 题目8 类型（单选，多选，填空）：单选
+数学section5 题目8 题目（填路径）：paper_source\question_pictures\入学测试\2-8.png
+数学section5 题目8 选项个数（填数字）：5
+数学section5 题目8 答案：C
+
+数学section5 题目9 类型（单选，多选，填空）：单选
+数学section5 题目9 题目（填路径）：paper_source\question_pictures\入学测试\2-9.png
+数学section5 题目9 选项个数（填数字）：5
+数学section5 题目9 答案：C
+
+数学section5 题目10 类型（单选，多选，填空）：填空
+数学section5 题目10 题目（填路径）：paper_source\question_pictures\入学测试\2-10.png
+数学section5 题目10 选项个数（填数字）： 
+数学section5 题目10 答案：-0.75
+
+数学section5 题目11 类型（单选，多选，填空）：单选
+数学section5 题目11 题目（填路径）：paper_source\question_pictures\入学测试\2-11.png
+数学section5 题目11 选项个数（填数字）：5
+数学section5 题目11 答案：B
+
+数学section5 题目12 类型（单选，多选，填空）：多选
+数学section5 题目12 题目（填路径）：paper_source\question_pictures\入学测试\2-12.png
+数学section5 题目12 选项个数（填数字）：5
+数学section5 题目12 答案：ACE
+
+数学section5 题目13 类型（单选，多选，填空）：单选
+数学section5 题目13 题目（填路径）：paper_source\question_pictures\入学测试\2-13.png
+数学section5 题目13 选项个数（填数字）：5
+数学section5 题目13 答案：A
+
+数学section5 题目14 类型（单选，多选，填空）：单选
+数学section5 题目14 题目（填路径）：paper_source\question_pictures\入学测试\2-14.png
+数学section5 题目14 选项个数（填数字）：5
+数学section5 题目14 答案：E
+
+数学section5 题目15 类型（单选，多选，填空）：填空
+数学section5 题目15 题目（填路径）：paper_source\question_pictures\入学测试\2-15.png
+数学section5 题目15 选项个数（填数字）：
+数学section5 题目15 答案：9
